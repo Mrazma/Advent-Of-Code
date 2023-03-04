@@ -26,7 +26,8 @@
             sums.Reverse();
 
             Console.WriteLine(sums[0]); //First answer
-            Console.WriteLine(sums[0] + sums[1] + sums[2]); //Scond Answer
+            Console.WriteLine(sums[0] + sums[1] + sums[2]); //Second Answer
+            //Git test
         }
     }
 }
